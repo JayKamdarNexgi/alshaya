@@ -1,0 +1,5 @@
+services:
+  app:
+    image: nexgaidev.azurecr.io/alshaya:ui_v1
+    ports:
+      - 5173:5173
