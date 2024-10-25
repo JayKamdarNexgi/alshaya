@@ -1,6 +1,12 @@
 # Fetching the latest node image on alpine linux
 FROM node:20-alpine
 
+# git setup
+
+RUN git checkout ui
+RUN git pull --force
+RUN cd ./frontend
+
 # Declaring env
 # ENV NODE_ENV development
 
