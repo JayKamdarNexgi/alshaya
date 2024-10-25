@@ -5,7 +5,7 @@ FROM node:20-alpine
 
 RUN git checkout ui
 RUN git pull --force
-RUN cd ./frontend
+# RUN cd ./frontend
 
 # Declaring env
 # ENV NODE_ENV development
@@ -14,10 +14,11 @@ RUN cd ./frontend
 WORKDIR /app
 
 # Installing dependencies
-COPY package.json .
-COPY package-lock.json .
+COPY ./frontend/package.json .
 
 RUN npm install
+
+# COPY ./frontend/package-lock.json .
 
 # Copying all the files in our project
 COPY . .
