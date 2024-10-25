@@ -1,0 +1,477 @@
+[
+  {
+    "developer": "Metrovacesa",
+    "project_id": 99264366,
+    "project": "Mesena 82",
+    "postal_code": "28033",
+    "type": "Apartment",
+    "bed_room": 1,
+    "bath_room": 1,
+    "size": {
+      "total_area": 71.7,
+      "terrace": 12.3
+    },
+    "floor": "1",
+    "original_price": {
+      "price": "5,07,000",
+      "per_sqm": "7,141"
+    },
+    "estimated_price": "5,32,500",
+    "estimated_price_range": {
+      "min": "5,20,000",
+      "max": "5,45,000"
+    },
+    "price_change": "5.00%",
+    "amenities": [
+      "Elevator",
+      "green zones",
+      "swimming pool",
+      "concierge",
+      "energy-efficient (A)",
+      "proximity to parks",
+      "schools",
+      "commercial centers"
+    ],
+    "garage": 1,
+    "storage_room": 1,
+    "reasoning": "<p><strong>First-floor unit:</strong> A great fit for young professionals or small households who value easy access and the simplicity of single-floor living.</p><p><strong>Terrace (12.3 sqm):</strong> The private terrace provides a much-desired outdoor area in an urban setting, adding a significant lifestyle upgrade, particularly for those looking for some private outdoor space.</p><p><strong>Amenities:</strong> The inclusion of a garage, concierge service, swimming pool, and green spaces ensures convenience and comfort, appealing to buyers seeking modern, low-maintenance living.</p><p><strong>Location:</strong> Located close to business districts and public transport, the unit is highly attractive to young professionals looking for shorter commutes. Easy access to gyms, shopping centers, and parks further enhances the property’s value for this demographic.</p><p><strong>Energy Efficiency:</strong> The top-tier ''A'' energy rating makes the unit more cost-effective in the long run, attracting eco-conscious buyers who value sustainability and savings on energy bills.</p><p><strong>Price Differentiation:</strong> A +5% price adjustment is recommended due to the premium outdoor space, high demand for single-bedroom units, and the strategic location near business hubs and recreational areas.</p><p><strong>Demographics:</strong> Perfect for young professionals and small households looking for a mix of urban convenience, modern amenities, and eco-friendly living in a prime location.</p><p><strong>Macroeconomic Factors:</strong> With Spain's economy rebounding, particularly through increased consumer confidence and foreign investment, the supply of 1-bedroom flats is relatively limited with only 29 units available, compared to higher counts for larger flats, urban properties like this one are experiencing rising demand and steady appreciation in value.</p>"
+  },
+  {
+    "developer": "Metrovacesa",
+    "project_id": 99264366,
+    "project": "Mesena 82",
+    "postal_code": "28033",
+    "type": "Apartment",
+    "bed_room": 2,
+    "bath_room": 2,
+    "size": {
+      "total_area": 126.5,
+      "terrace": 19.7
+    },
+    "floor": "1",
+    "original_price": {
+      "price": "8,60,000",
+      "per_sqm": "6,825"
+    },
+    "estimated_price": "9,00,500",
+    "estimated_price_range": {
+      "min": "8,80,000",
+      "max": "9,20,000"
+    },
+    "price_change": "4.70%",
+    "amenities": [
+      "Elevator",
+      "green zones",
+      "swimming pool",
+      "concierge",
+      "energy-efficient (A)",
+      "proximity to parks",
+      "schools",
+      "business districts",
+      "gyms",
+      "and shopping centers"
+    ],
+    "garage": 1,
+    "storage_room": 1,
+    "reasoning": "<p><strong>First-floor unit:</strong> Well-suited for families or older individuals who prefer easier access. The lower floor also appeals to those who prioritize accessibility and convenience over elevated views.</p><p><strong>Terrace (19.7 sqm):</strong> A spacious terrace adds substantial value to the property, offering desirable outdoor space in an urban environment. This feature increases the property's appeal, especially for families who value outdoor relaxation areas.</p><p><strong>Amenities:</strong> With access to a garage, storage, green zones, swimming pool, and concierge, the property appeals to mid to high-income buyers seeking comfort and convenience. Nearby gyms and shopping centers enhance lifestyle quality.</p><p><strong>Location:</strong> The proximity to prestigious schools, healthcare facilities, and business districts makes this property attractive for families and professionals seeking short commutes and lifestyle convenience. Parks in the area contribute to a well-balanced, family-friendly environment.</p><p><strong>Energy Efficiency:</strong> The ''A'' energy certification supports long-term cost savings and aligns with growing demand for eco-friendly living spaces.</p><p><strong>Price Differentiation:</strong> A +4.7% price increase is recommended due to the large terrace, excellent amenities, and the property's location near key urban and recreational centers, making it attractive for families and professionals alike.</p><p><strong>Demographics:</strong> Ideal for families, seniors, and professionals who seek easy access to education, workspaces, and leisure activities. The outdoor terrace, family-friendly amenities, and energy-efficient design cater to modern buyers.</p><p><strong>Macroeconomic Data:</strong> Spain’s economic recovery, characterized by rising consumer spending and increased foreign investment, continues to push property demand upward, particularly in well-connected, urban locations like Madrid.</p>"
+  },
+  {
+    "developer": "Metrovacesa",
+    "project_id": 99264366,
+    "project": "Mesena 82",
+    "postal_code": "28033",
+    "type": "Apartment",
+    "bed_room": 2,
+    "bath_room": 2,
+    "size": {
+      "total_area": 119.0,
+      "terrace": 12.7
+    },
+    "floor": "2",
+    "original_price": {
+      "price": "8,79,000",
+      "per_sqm": "7,387"
+    },
+    "estimated_price": "9,20,500",
+    "estimated_price_range": {
+      "min": "9,00,000",
+      "max": "9,40,000"
+    },
+    "price_change": "4.70%",
+    "amenities": [
+      "Elevator",
+      "green zones",
+      "swimming pool",
+      "concierge",
+      "energy-efficient (A)",
+      "proximity to parks",
+      "schools",
+      "gyms",
+      "and shopping centers"
+    ],
+    "garage": 1,
+    "storage_room": 1,
+    "reasoning": "<p><strong>Second-floor unit:</strong> Ideal for professionals or families seeking a balance of accessibility and privacy. The second floor offers better views without the height concerns associated with upper floors.</p><p><strong>Terrace (12.7 sqm):</strong> The addition of a sizeable terrace significantly increases the property’s value, providing outdoor living space in an urban setting where it is often limited. This enhances the property’s appeal, particularly for buyers who prioritize outdoor relaxation.</p><p><strong>Amenities:</strong> High appeal due to the presence of a garage, storage, swimming pool, and green spaces. The proximity to gyms and shopping centers enhances the lifestyle offering, attracting mid-to-high-income buyers.</p><p><strong>Location:</strong> Close to key business districts, schools, and healthcare facilities, this property is ideal for families and professionals who value convenience. Parks and green spaces provide an additional layer of appeal, fostering a family-friendly environment.</p><p><strong>Energy Efficiency:</strong> The ''A'' energy certification adds long-term value, appealing to buyers focused on reducing their carbon footprint and energy costs.</p><p><strong>Price Differentiation:</strong> A +4.7% price increase is recommended, driven by strong demand, the desirable location, and high-quality amenities. The inclusion of a terrace in an urban environment further supports the upward price adjustment.</p><p><strong>Demographics:</strong> Suited for professionals, small families, and retirees seeking a well-connected, comfortable living space. The mix of proximity to schools, business centers, and recreational areas appeals to a wide range of buyers.</p><p><strong>Macroeconomic Data:</strong> Spain’s economic recovery and increased foreign investments in urban centers like Madrid have driven property demand upwards, supporting continued price growth for premium urban properties.</p>"
+  },
+  {
+    "developer": "Metrovacesa",
+    "project_id": 99264366,
+    "project": "Mesena 82",
+    "postal_code": "28033",
+    "type": "Apartment",
+    "bed_room": 3,
+    "bath_room": 3,
+    "size": {
+      "total_area": 169.0,
+      "terrace": 24.8
+    },
+    "floor": "1",
+    "original_price": {
+      "price": "11,17,000",
+      "per_sqm": "6,609"
+    },
+    "estimated_price": "11,65,000",
+    "estimated_price_range": {
+      "min": "11,40,000",
+      "max": "11,90,000"
+    },
+    "price_change": "4.30%",
+    "amenities": [
+      "Elevator",
+      "green zones",
+      "swimming pool",
+      "concierge",
+      "energy-efficient (A)",
+      "proximity to parks",
+      "schools",
+      "gyms",
+      "and shopping centers"
+    ],
+    "garage": 1,
+    "storage_room": 1,
+    "reasoning": "<p><strong>First-floor unit:</strong> The ground-level position is ideal for families with children or elderly individuals who prefer easier access. Its location also provides enhanced privacy and convenience compared to upper floors.</p><p><strong>Terrace (24.8 sqm):</strong> A spacious terrace significantly enhances the value of the property, offering outdoor space that is in high demand, especially in urban environments where such features are limited. This makes the apartment especially attractive to families seeking extra space.</p><p><strong>Amenities:</strong> The inclusion of a garage, storage, swimming pool, green zones, and a concierge makes this property a premium offering, appealing to mid-to-high-income buyers. Nearby gyms and shopping centers further enhance the lifestyle and convenience for residents.</p><p><strong>Location:</strong> Proximity to quality schools, healthcare facilities, and business districts makes the apartment suitable for families and professionals. Nearby parks add to the appeal, creating a balanced environment for work and recreation.</p><p><strong>Energy Efficiency:</strong> The ''A'' energy certification is a key selling point for eco-conscious buyers, reducing long-term utility costs and contributing to sustainable living, which is increasingly important in urban real estate.</p><p><strong>Price Differentiation:</strong> A +4.3% price increase is recommended based on the large terrace, premium amenities, and strong market demand in this area. The property’s proximity to essential amenities and parks, combined with the growing demand for outdoor spaces, supports this price adjustment.</p><p><strong>Demographics:</strong> Best suited for families and professionals who value accessibility, comfort, and an urban lifestyle with modern conveniences. The proximity to top-tier schools and parks further makes it ideal for families seeking a premium living environment.</p><p><strong>Macroeconomic Context:</strong> Spain’s ongoing economic recovery, increased consumer spending, and foreign investment trends have all contributed to a favorable property market outlook, supporting price growth for well-located urban properties like this one.</p>"
+  },
+  {
+    "developer": "Metrovacesa",
+    "project_id": 99264366,
+    "project": "Mesena 82",
+    "postal_code": "28033",
+    "type": "Apartment",
+    "bed_room": 4,
+    "bath_room": 3,
+    "size": {
+      "total_area": 319.9,
+      "terrace": 124.6
+    },
+    "floor": 0,
+    "original_price": {
+      "price": "14,78,500",
+      "per_sqm": "4,679"
+    },
+    "estimated_price": "15,50,000",
+    "estimated_price_range": {
+      "min": "15,20,000",
+      "max": "15,80,000"
+    },
+    "price_change": "4.80%",
+    "amenities": [
+      "Elevator",
+      "green zones",
+      "swimming pool",
+      "concierge",
+      "energy-efficient (A)",
+      "proximity to parks",
+      "schools",
+      "gyms",
+      "and shopping centers"
+    ],
+    "garage": 1,
+    "storage_room": 1,
+    "reasoning": "<p><strong>Ground-floor unit:</strong> The spacious ground-floor layout, with direct access to outdoor areas, is particularly attractive to large families or elderly residents who prefer easier accessibility. The additional privacy and convenience offered by the ground-floor location also make it appealing for families with young children.</p><p><strong>Terrace (124.6 sqm):</strong> The large private terrace offers significant value, creating an outdoor space for leisure and relaxation, a highly desirable feature in urban environments. This greatly enhances the property’s attractiveness, especially for buyers seeking outdoor space in a central city location.</p><p><strong>Amenities:</strong> The inclusion of a garage, storage room, swimming pool, green zones, and concierge services elevates this property to a premium category, attracting affluent buyers. Nearby amenities such as parks, gyms, and shopping centers add to its lifestyle appeal.</p><p><strong>Location:</strong> Its proximity to top-rated schools, healthcare facilities, and business districts makes it highly attractive to families and professionals. Parks in the surrounding area offer additional recreational opportunities, which further boost its appeal.</p><p><strong>Energy Efficiency:</strong> The ''A'' energy certification adds to the property’s long-term value, catering to eco-conscious buyers and reducing utility costs over time.</p><p><strong>Price Differentiation:</strong> A +4.8% price adjustment is recommended, reflecting the premium amenities, substantial outdoor terrace, and high demand for properties of this size in Madrid’s urban center.</p><p><strong>Demographics:</strong> The property is ideal for large families, professionals, or retirees seeking luxury living in an accessible location. Its ample space, modern amenities, and proximity to essential services cater to diverse buyer profiles.</p><p><strong>Macroeconomic Data:</strong> Spain’s economic recovery, driven by increased consumer spending and growing foreign investments, continues to support real estate demand, particularly for luxury properties in well-connected urban locations.</p>"
+  },
+  {
+    "developer": "Metrovacesa",
+    "project_id": 99400326,
+    "project": "Mesena 80",
+    "postal_code": "28033",
+    "type": "Apartment",
+    "bed_room": 1,
+    "bath_room": 1,
+    "size": {
+      "total_area": 67.1,
+      "terrace": 9.1
+    },
+    "floor": "4",
+    "original_price": {
+      "price": "5,15,500",
+      "per_sqm": "7,694"
+    },
+    "estimated_price": "5,40,000",
+    "estimated_price_range": {
+      "min": "5,30,000",
+      "max": "5,50,000"
+    },
+    "price_change": "4.75%",
+    "amenities": [
+      "Elevator",
+      "green zones",
+      "swimming pool",
+      "garage",
+      "energy-efficient (A)",
+      "proximity to schools",
+      "healthcare",
+      "and shopping centers"
+    ],
+    "garage": 1,
+    "storage_room": 1,
+    "reasoning": "<p><strong>Fourth-floor unit:</strong> Ideal for young professionals or couples seeking privacy and a view. The higher floor increases desirability by offering better views, reduced noise from street traffic, and increased natural light, attracting urban buyers.</p><p><strong>Terrace (9.1 sqm):</strong> The private outdoor space is an appealing feature, particularly in urban settings where access to outdoor areas is limited. This increases the property's value, especially for buyers who value outdoor leisure.</p><p><strong>Amenities:</strong> High-end amenities, including a swimming pool, green zones, and garage, enhance the overall lifestyle appeal. Proximity to key amenities such as parks, gyms, schools, and healthcare facilities boosts its attractiveness to eco-conscious buyers.</p><p><strong>Location:</strong> Close to public transport and major business hubs, making it convenient for young professionals. The surrounding parks and green spaces add to the lifestyle appeal, drawing in residents seeking a balanced work-life environment.</p><p><strong>Energy Efficiency:</strong> The ''A'' energy certificate provides long-term cost savings and appeals to environmentally conscious buyers.</p><p><strong>Price Differentiation:</strong> A +4.75% price adjustment is recommended due to strong demand in the area, the premium features of the apartment, and its excellent proximity to key amenities.</p><p><strong>Demographics:</strong> This apartment is best suited for young professionals or couples seeking a modern, well-connected living space with access to leisure and work opportunities.</p><p><strong>Macroeconomic Data:</strong> Spain’s robust economic recovery, along with increased foreign investment and consumer spending, continues to drive up demand for properties in urban areas like Madrid, supporting higher property values.</p>"
+  },
+  {
+    "developer": "Metrovacesa",
+    "project_id": 99400326,
+    "project": "Mesena 80",
+    "postal_code": "28033",
+    "type": "Apartment",
+    "bed_room": 2,
+    "bath_room": 2,
+    "size": {
+      "total_area": 125.5,
+      "terrace": 17.5
+    },
+    "floor": "1",
+    "original_price": {
+      "price": "7,97,500",
+      "per_sqm": "6,380"
+    },
+    "estimated_price": "8,25,000",
+    "estimated_price_range": {
+      "min": "8,15,000",
+      "max": "8,35,000"
+    },
+    "price_change": "3.45%",
+    "amenities": [
+      "Elevator",
+      "green zones",
+      "swimming pool",
+      "garage",
+      "storage room",
+      "energy efficiency (A)"
+    ],
+    "garage": 1,
+    "storage_room": 1,
+    "reasoning": "<p><strong>First-floor unit:</strong> Ideal for families and seniors due to easy accessibility. The first-floor location is highly suitable for buyers with height concerns or mobility restrictions, offering convenience without sacrificing security or amenities.</p><p><strong>Terrace (17.5 sqm):</strong> A significant asset in urban Madrid, providing private outdoor space, which is increasingly valued in the current market. The size of the terrace allows for outdoor relaxation and entertainment, making it attractive to families and professionals alike.</p><p><strong>High-End Amenities:</strong> The inclusion of a swimming pool, green zones, garage, and storage room adds significant value, appealing to families and mid-to-high-income buyers seeking a lifestyle-oriented property. Proximity to educational institutions and healthcare facilities increases the property’s appeal.</p><p><strong>Energy Efficiency:</strong> The ''A'' energy certification boosts long-term cost savings and enhances the property's eco-friendly appeal, making it desirable for environmentally conscious buyers.</p><p><strong>Price Differentiation:</strong> A +3.45% upward price adjustment is recommended due to the combination of the large terrace, premium amenities, and continued demand in this area of Madrid. The market remains strong due to economic recovery, with inflation and foreign investments supporting rising prices.</p><p><strong>Demographics:</strong> Best suited for families, seniors, and young professionals who prioritize access to amenities and lifestyle comforts in a premium location.</p><p><strong>Macroeconomic Data:</strong> The current economic climate, characterized by Spain's recovery momentum, rising consumer spending, and foreign investments, supports moderate price increases in key urban areas like Madrid.</p>"
+  },
+  {
+    "developer": "Metrovacesa",
+    "project_id": 99400326,
+    "project": "Mesena 80",
+    "postal_code": "28033",
+    "type": "Apartment",
+    "bed_room": 2,
+    "bath_room": 2,
+    "size": {
+      "total_area": 124.0,
+      "terrace": 20.7
+    },
+    "floor": "1",
+    "original_price": {
+      "price": "8,05,500",
+      "per_sqm": "6,496"
+    },
+    "estimated_price": "8,25,000",
+    "estimated_price_range": {
+      "min": "8,10,000",
+      "max": "8,35,000"
+    },
+    "price_change": "2.42%",
+    "amenities": [
+      "Elevator",
+      "green zones",
+      "swimming pool",
+      "garage",
+      "storage room",
+      "energy efficiency (A)"
+    ],
+    "garage": 1,
+    "storage_room": 1,
+    "reasoning": "<p><strong>First-floor unit:</strong> Suitable for families and seniors due to ease of access. The large terrace (20.7 sqm) adds outdoor living appeal, making the property stand out, especially given the increasing demand for outdoor spaces in urban environments.</p><p><strong>Terrace:</strong> A premium feature in a city like Madrid, the terrace enhances both living space and property value, justifying a slight price increase.</p><p><strong>Proximity to Amenities:</strong> Close to reputable schools, parks, and healthcare facilities, this property is highly desirable for families.</p><p><strong>Energy Efficiency:</strong> The A-rating for energy consumption and emissions makes it attractive to eco-conscious buyers, adding long-term value through energy savings.</p><p><strong>Price Differentiation:</strong> A +2.42% increase is recommended due to premium amenities, proximity to transport and educational facilities, and the large terrace, coupled with Madrid's strong real estate market driven by inflation and foreign investments.</p><p><strong>Target Market:</strong> Families, young professionals, and seniors who value accessibility, amenities, and outdoor space.</p><p><strong>Market Conditions:</strong> Current economic recovery and foreign investment trends, alongside inflation in construction costs, support moderate price increases in desirable urban areas like Hortaleza, Madrid.</p>"
+  },
+  {
+    "developer": "Metrovacesa",
+    "project_id": 99400326,
+    "project": "Mesena 80",
+    "postal_code": "28033",
+    "type": "Apartment",
+    "bed_room": 3,
+    "bath_room": 3,
+    "size": {
+      "total_area": 153.0,
+      "terrace": 22.6
+    },
+    "floor": "1",
+    "original_price": {
+      "price": "10,17,500",
+      "per_sqm": "6,650"
+    },
+    "estimated_price": "10,75,000",
+    "estimated_price_range": {
+      "min": "10,45,000",
+      "max": "11,05,000"
+    },
+    "price_change": "5.60%",
+    "amenities": [
+      "Elevator",
+      "green zones",
+      "swimming pool",
+      "energy-efficient (A)",
+      "proximity to schools",
+      "healthcare",
+      "parks",
+      "gyms",
+      "and shopping centers"
+    ],
+    "garage": 1,
+    "storage_room": 1,
+    "reasoning": "<p><strong>First-floor unit:</strong> 3 bedroom spacious apartment is well-suited for families with children or elderly individuals, offering easy accessibility without the challenges of higher floors.</p><p><strong>Terrace (22.6 sqm):</strong> The expansive terrace enhances the appeal, providing valuable outdoor space in a busy urban setting. This feature elevates the property's value considerably.</p><p><strong>Amenities:</strong> The inclusion of a garage, swimming pool, green spaces, and proximity to gyms and retail centers enhances lifestyle convenience, attracting mid to upper-income families and buyers prioritizing comfort.</p><p><strong>Location:</strong> The property’s strategic proximity to reputable schools, healthcare facilities, and key business districts is ideal for families and professionals. The nearby parks and recreational spaces further add to the appeal, making it perfect for diverse demographics.</p><p><strong>Energy Efficiency:</strong> The ''A'' energy certification adds long-term value, appealing to environmentally-conscious buyers seeking reduced utility costs.</p><p><strong>Price Differentiation:</strong> A +5.6% price increase is warranted due to the large terrace, growing demand in this area, and the property's premium features, including its excellent access to schools and parks.</p><p><strong>Demographics:</strong> This unit is ideal for families and seniors seeking ample living space, convenience, and a family-friendly environment. The outdoor space and amenities also cater to professionals looking for a work-life balance.</p><p><strong>Macroeconomic Factors:</strong> Spain’s economic rebound, bolstered by higher consumer spending and a rise in foreign investment, continues to push up property demand, particularly in attractive urban centers like Madrid.</p>"
+  },
+  {
+    "developer": "Metrovacesa",
+    "project_id": 99400326,
+    "project": "Mesena 80",
+    "postal_code": "28033",
+    "type": "Apartment",
+    "bed_room": 3,
+    "bath_room": 3,
+    "size": {
+      "total_area": 146.1,
+      "terrace": 15.7
+    },
+    "floor": "2",
+    "original_price": {
+      "price": "10,28,500",
+      "per_sqm": "7,045"
+    },
+    "estimated_price": "10,50,000",
+    "estimated_price_range": {
+      "min": "10,35,000",
+      "max": "10,65,000"
+    },
+    "price_change": "2.10%",
+    "amenities": [
+      "Elevator",
+      "green zones",
+      "swimming pool",
+      "garage",
+      "storage room",
+      "energy efficiency (A)"
+    ],
+    "garage": 1,
+    "storage_room": 1,
+    "reasoning": "<p><strong>Second-floor unit:</strong> The mid-floor location is ideal for families and professionals who prefer a balance of accessibility and privacy.</p><p><strong>Terrace (15.7 sqm):</strong> This outdoor space adds significant value to the property, offering a space for relaxation or entertaining guests, which is highly valued in urban settings.</p><p><strong>High demand for 3-bedroom units:</strong> Families and young professionals are particularly attracted to properties with multiple bedrooms, and the high absorption rate in the area reflects strong demand.</p><p><strong>Energy Efficiency (A-rated):</strong> Energy-efficient features are becoming increasingly important, adding long-term value and reducing utility costs, making the property more appealing to eco-conscious buyers.</p><p><strong>Economic Outlook:</strong> Spain's improving GDP growth, rising foreign investments, and higher consumer spending contribute to a positive outlook for real estate in Madrid, especially in prime areas like Hortaleza.</p><p><strong>Price Differentiation:</strong> A +2.1% price increase is suggested based on market conditions, the property’s premium features, proximity to amenities, and ongoing urban developments.</p><p><strong>Target Market:</strong> Families and professionals seeking modern living with amenities in a well-connected part of Madrid.</p>"
+  },
+  {
+    "developer": "Metrovacesa",
+    "project_id": 99400326,
+    "project": "Mesena 80",
+    "postal_code": "28033",
+    "type": "Apartment",
+    "bed_room": 3,
+    "bath_room": 3,
+    "size": {
+      "total_area": 152.5,
+      "terrace": 22.6
+    },
+    "floor": "1",
+    "original_price": {
+      "price": "10,51,500",
+      "per_sqm": "6,918"
+    },
+    "estimated_price": "10,75,000",
+    "estimated_price_range": {
+      "min": "10,60,000",
+      "max": "10,90,000"
+    },
+    "price_change": "2.20%",
+    "amenities": [
+      "Elevator",
+      "green zones",
+      "swimming pool",
+      "garage",
+      "storage room",
+      "energy efficiency (A)"
+    ],
+    "garage": 1,
+    "storage_room": 1,
+    "reasoning": "<p><strong>First-floor unit:</strong> Ideal for families with easy access and privacy, particularly for residents preferring lower levels due to ease of mobility or families with small children.</p><p><strong>Terrace (22.6 sqm):</strong> Larger-than-average outdoor space adds considerable value, appealing to families and professionals who desire outdoor living areas.</p><p><strong>Proximity to amenities:</strong> The location is near public transportation (bus and metro), high-rated schools, healthcare, and commercial hubs, which increases the overall appeal and price potential of the property.</p><p><strong>Strong market demand:</strong> The demand for family-sized, well-located properties in Madrid’s Hortaleza district remains high, especially with features like a garage and modern amenities, leading to a +2.2% price recommendation.</p><p><strong>Energy efficiency (A):</strong> The sustainability factor contributes to long-term savings and higher desirability among eco-conscious buyers.</p><p><strong>Market Conditions:</strong> The rising property demand, influenced by Spain's economic recovery, increased foreign investment, and growing consumer confidence, supports this price adjustment.</p><p><strong>Target Market:</strong> This property is particularly attractive to families and professionals seeking a blend of luxury, space, and urban living.</p>"
+  },
+  {
+    "developer": "Metrovacesa",
+    "project_id": 99400326,
+    "project": "Mesena 80",
+    "postal_code": "28033",
+    "type": "Apartment",
+    "bed_room": 4,
+    "bath_room": 3,
+    "size": {
+      "total_area": 179.8,
+      "terrace": 14.4
+    },
+    "floor": "3",
+    "original_price": {
+      "price": "12,37,500",
+      "per_sqm": "6,913"
+    },
+    "estimated_price": "12,55,000",
+    "estimated_price_range": {
+      "min": "12,40,000",
+      "max": "12,70,000"
+    },
+    "price_change": "1.40%",
+    "amenities": [
+      "Elevator",
+      "green zones",
+      "swimming pool",
+      "garage",
+      "storage room",
+      "energy efficiency (A)"
+    ],
+    "garage": 1,
+    "storage_room": 1,
+    "reasoning": "<p><strong>Third-floor unit:</strong> The elevated floor offers enhanced privacy, natural light, and better views, making it more desirable for high-income families or professionals.</p><p><strong>Spacious layout (179.8 sqm):</strong> The large space and additional terrace cater to families and professionals seeking luxury, comfort, and room to entertain.</p><p><strong>Proximity to high-quality schools and transportation:</strong> The close proximity to well-rated schools and key transportation hubs, including metro stations and bus stops, adds convenience and long-term market appeal.</p><p><strong>Energy efficiency (A rating):</strong> Increasing appeal to eco-conscious buyers, with savings on utility costs and reduced environmental impact, aligning with sustainable housing trends.</p><p><strong>Current Market:</strong> Economic recovery, low unemployment, and rising consumer spending contribute to increased property demand. Inflation has driven up construction costs, influencing property values.</p><p><strong>Investment Potential:</strong> The location within a growing Madrid neighborhood, combined with ongoing developments and future infrastructure projects, suggests further price appreciation.</p>"
+  },
+  {
+    "developer": "Metrovacesa",
+    "project_id": 99400326,
+    "project": "Mesena 80",
+    "postal_code": "28033",
+    "type": "Apartment",
+    "bed_room": 3,
+    "bath_room": 3,
+    "size": {
+      "total_area": 268.0,
+      "terrace": 111.3
+    },
+    "floor": 0,
+    "original_price": {
+      "price": "12,55,500",
+      "per_sqm": "4,685"
+    },
+    "estimated_price": "12,72,000",
+    "estimated_price_range": {
+      "min": "12,60,000",
+      "max": "12,85,000"
+    },
+    "price_change": "1.30%",
+    "amenities": [
+      "Elevator",
+      "green zones",
+      "swimming pool",
+      "garage",
+      "storage room",
+      "energy efficiency (A)"
+    ],
+    "garage": 1,
+    "storage_room": 1,
+    "reasoning": "<p><strong>Ground-floor unit:</strong> The larger size (268 sqm) combined with a vast terrace (111.3 sqm) enhances the property's value, especially for families who appreciate outdoor space. Ground-floor units with such space are rare, making it attractive for buyers who prioritize accessibility and outdoor living.</p><p><strong>Proximity to high-quality schools and transportation:</strong> Close proximity to well-rated schools and convenient access to metro and bus stations make this property ideal for families and professionals commuting to work or school.</p><p><strong>Energy efficiency (A rating):</strong> Aligns with growing demand for eco-friendly housing, which can reduce utility costs and increase long-term value.</p><p><strong>Current Market:</strong> The economic recovery in Spain, combined with increasing consumer confidence and rising demand for high-quality residential properties, supports the slight price increase. Inflation has driven up construction costs, impacting new home prices across the market.</p><p><strong>Investment Potential:</strong> The property's premium location in a highly desirable neighborhood, combined with a large outdoor terrace and strong local amenities, suggests strong future appreciation.</p>`</p"
+  }
+]

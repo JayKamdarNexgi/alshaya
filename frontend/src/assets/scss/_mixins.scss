@@ -1,0 +1,100 @@
+@function box-shadow($shadow, $opacity) {
+  $primary-offset: 3px;
+  $blur: -1px;
+  $color: rgba($shadow, $opacity);
+
+  @return 0 0 $primary-offset $blur $color;
+}
+
+@function bottom-shadow() {
+  $primary-offset: 3px;
+  $blur: -1px;
+  $color: rgba($bs-primary, 0.2);
+
+  @return 0 0 $primary-offset $blur $color;
+}
+
+@function theme-color($opacity) {
+  @return rgba($bs-primary, $opacity);
+}
+
+@mixin placeholder {
+  ::-webkit-input-placeholder {@content}
+  :-moz-placeholder           {@content}
+  ::-moz-placeholder          {@content}
+  :-ms-input-placeholder      {@content}  
+}
+
+
+@mixin depth($depth) {
+  @if $depth < 1 {
+    box-shadow: none;
+  } @else if $depth > 5 {
+    @warn "Invalid $depth `#{$depth}` for mixin `card`.";
+  } @else {
+    box-shadow: bottom-shadow($depth), top-shadow($depth);
+  }
+}
+
+
+@mixin respond-above($breakpoint) {
+  // If the breakpoint exists in the map.
+  @if map-has-key($breakpoints, $breakpoint) {
+    // Get the breakpoint value.
+    $breakpoint-value: map-get(
+      $breakpoints,
+      $breakpoint
+    ); // Write the media query.
+    @media (min-width: ($breakpoint-value - 1)) {
+      @content;
+    }
+    // If the breakpoint doesn't exist in the map.
+  } @else {
+    // Log a warning.
+    @warn "Invalid breakpoint: #{$breakpoint}.";
+  }
+}
+
+
+
+@function bottom-shadow($depth) {
+  $primary-offset: nth($shadow-offsets-bottom, $depth) * 1px;
+  $blur: nth($shadow-blurs-bottom, $depth) * 5px;
+  $color: rgba(black, nth($shadow-opacities-bottom, $depth));
+  @return 0 $primary-offset $blur $color;
+}
+
+@function top-shadow($depth) {
+  $primary-offset: nth($shadow-offsets-top, $depth) * 1px;
+  $blur: nth($shadow-blurs-top, $depth) * 4px;
+  $color: rgba(black, nth($shadow-opacities-top, $depth));
+
+  @return 0 $primary-offset $blur $color;
+}
+
+@mixin respond-below($breakpoint) {
+  // If the breakpoint exists in the map.
+  @if map-has-key($breakpoints, $breakpoint) {
+    // Get the breakpoint value.
+    $breakpoint-value: map-get(
+      $breakpoints,
+      $breakpoint
+    ); // Write the media query.
+    @media (max-width: ($breakpoint-value - 1)) {
+      @content;
+    }
+    // If the breakpoint doesn't exist in the map.
+  } @else {
+    // Log a warning.
+    @warn "Invalid breakpoint: #{$breakpoint}.";
+  }
+}
+
+$breakpoints: (
+  xxs: 420px,
+  xs: 576px,
+  sm: 768px,
+  md: 992px,
+  lg: 1200px,
+  xl: 1440px
+);

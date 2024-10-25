@@ -1,0 +1,213 @@
+.basic-card {
+  padding: 15px 25px;
+  border-radius: 6px;
+  border-left: 3px solid $bs-primary;
+  h3 {
+    display: inline-block;
+    margin-right: 15px;
+  }
+  select {
+    @extend .input-control;
+    &.no-val {
+      color: #555;
+    }
+  }
+}
+
+.priority-card {
+  .search-acc {
+    display: block;
+    position: relative;
+    max-width: 100%;
+    h3 {
+      display: inline-block;
+      margin-right: 15px;
+    }
+    select {
+      @extend .input-control;
+      margin-right: 0;
+      border-right: 0;
+      &.no-val {
+        color: #555;
+      }
+    }
+    .input-box {
+      max-width: 400px;
+      width: 100%;
+      display: inline-block;
+      position: relative;
+    }
+    input {
+      @extend .input-control;
+      max-width: 400px;
+    }
+
+    button {
+      position: absolute;
+      right: -6px;
+      top: 6px;
+      @extend .btn-muted;
+      padding: 5px;
+      font-size: 12px;
+      color: #555;
+      &:hover {
+        color: $font-black;
+      }
+    }
+    .feedback-btn {
+      @extend .btn-outline;
+      margin-left: 10px;
+    }
+  }
+
+  .priority-table {
+    thead {
+      tr {
+        border-left: 3px solid $bs-primary;
+        th {
+          text-align: center;
+          vertical-align: middle;
+          font-size: 13px;
+          text-transform: uppercase;
+          background: $bs-light;
+          border-right: 1px solid #fff;
+          font-weight: 500;
+          padding: 10px 15px;
+          color: #fff;
+          line-height: 15px;
+          &.scores {
+            padding: 5px 0;
+            p {
+              margin: 0;
+              display: flex;
+              justify-content: space-around;
+
+              span {
+                width: 85px;
+                margin-top: 10px;
+                display: inline-block;
+                font-size: 12px;
+                padding: 0;
+                svg {
+                  margin-right: 3px;
+                  vertical-align: text-top;
+                  cursor: pointer;
+                }
+              }
+            }
+          }
+          span {
+            font-size: 12.5px;
+          }
+        }
+      }
+    }
+    tbody {
+      tr {
+        border-left: 3px solid #eee;
+        td {
+          border: 1px solid #eee;
+          &.action-name {
+            white-space: nowrap;
+            p {
+              margin-bottom: 5px;
+              text-transform: none;
+            }
+            span {
+              font-size: 12.5px;
+              color: $font-black;
+            }
+          }
+          h5 {
+            margin-bottom: 7px;
+            font-size: 15px;
+            line-height: 18px;
+            text-transform: capitalize;
+          }
+          h6 {
+            font-size: 13px;
+            color: $font-light;
+            span{
+              color: $font-black;
+              font-weight: 500;
+            }
+          }
+          &.btn-grp {
+            min-width: 150px;
+            display: table-cell;
+            button {
+              @extend .btn-muted;
+              margin-right: 15px;
+              color: #049fd9;
+              &:hover {
+                transform: scale(1.15);
+              }
+            }
+          }
+          .event-btn {
+            color: $bs-green;
+          }
+          font-size: 14px;
+          .CircularProgressbar {
+            width: 55px;
+            .CircularProgressbar-text {
+              dominant-baseline: middle;
+              text-anchor: middle;
+              font-size: 25px;
+            }
+          }
+          .CircularProgressbar-trail {
+            stroke: #eee;
+          }
+          .CircularProgressbar-path {
+            stroke: $success-color;
+          }
+
+          .CircularProgressbar.low {
+            .CircularProgressbar-path {
+              stroke: $error-color;
+            }
+          }
+          .CircularProgressbar.mid {
+            .CircularProgressbar-path {
+              stroke: $warning-color;
+            }
+          }
+
+          &.chart {
+            width: 85px;
+            border-right-color: #fff;
+          }
+          padding: 10px 15px;
+          vertical-align: middle;
+          &:first-child {
+            background: #f5f5f5;
+          }
+          p {
+            @extend .flex-center;
+            font-size: 14px;
+            text-transform: capitalize;
+            width: 200px;
+            justify-content: flex-start;
+            span {
+              font-size: 13.5px;
+              color: $bs-green;
+              display: inline-block;
+              padding: 2px;
+            }
+          }
+        }
+        &:hover {
+          background: theme-color(0.02);
+          border-left-color: theme-color(0.25);
+          td {
+            background: theme-color(0.02);
+            &:first-child {
+              background: theme-color(0.085);
+            }
+          }
+        }
+      }
+    }
+  }
+}

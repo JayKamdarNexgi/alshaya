@@ -1,0 +1,74 @@
+$bs-blue: #1e88e5;
+$bs-indigo: #6610f2;
+$bs-purple: #7460ee;
+$bs-pink: #e83e8c;
+$bs-red: #fc4b6c;
+$bs-orange: #fb8c00;
+$bs-yellow: #ffb22b;
+$bs-green: #21c1d6;
+$bs-teal: #20c997;
+$bs-cyan: #26c6da;
+$bs-white: #fff;
+$bs-gray: #6c757d;
+$bs-gray-dark: #343a40;
+
+$bs-primary: #7460ee;
+$bs-secondary: #6c757d;
+$bs-success: #21c1d6;
+$bs-info: #1e88e5;
+$bs-warning: #ffb22b;
+$bs-danger: #fc4b6c;
+$bs-inverse: #2f3d4a;
+$bs-megna: #01c0c8;
+
+$bs-light: #f2f4f8;
+$bs-dark: #343a40;
+
+$bs-light-danger: #f9e7eb;
+$bs-light-success: #a8eef7;
+$bs-light-warning: #fff8ec;
+$bs-light-primary: #f1effd;
+$bs-light-info: #cfecfe;
+$bs-light-inverse: #f6f6f6;
+$bs-light-megna: #e0f2f4;
+$bs-light-secondary: #dde1e4;
+
+$bs-dark-danger: #e6294b;
+$bs-dark-success: #1eacbe;
+$bs-dark-warning: #e9ab2e;
+$bs-dark-primary: #6352ce;
+$bs-dark-info: #028ee1;
+
+$bg-light: #eef5f9;
+
+/* Theme colors */
+$theme-color: #003628;
+$theme-secondary-color: #173859;
+
+$theme-secondary-light-color: rgba($theme-secondary-color, 0.2);
+$theme-light-color: rgba($theme-color, 0.2);
+
+$font-black: #455a64;
+$theme-font: #003628;
+$font-hover: #9b1717;
+$font-light: rgba(25, 9, 53, 1);
+$foreground-color: #fff;
+$black: #000;
+$white: #fff;
+
+$success-color: rgba(0, 230, 197, 1);
+$warning-color: #b69329;
+$error-color: #b7453f;
+
+$separator-color: #424242;
+
+$shadow-offsets-bottom : 1 3 6 10 15;
+$shadow-blurs-bottom: 3 6 6 5 6;
+$shadow-opacities-bottom: 0.1 0.3 0.6 0.7 0.8;
+
+$shadow-offsets-top : 1 3 10 14 19;
+$shadow-blurs-top: 2 6 10 14 19;
+$shadow-opacities-top: 0.1 0.3 0.6 0.7 0.8;
+
+$border-radius: 0.1rem;
+$border-radius-rounded: 1.25rem;
